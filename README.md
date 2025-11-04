@@ -13,5 +13,5 @@ npm install -g winners-cli
 ```bash
 winners-cli --help
 ```
-..
+...
 
