@@ -1,0 +1,19 @@
+{
+  "name": "winners-cli",
+  "version": "0.1.0",
+  "description": "A simple CLI tool written in TypeScript",
+  "main": "dist/index.js",
+  "bin": {
+    "winners-cli": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js"
+  },
+  "author": "abdonito",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
